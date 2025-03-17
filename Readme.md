@@ -33,10 +33,6 @@ Para executar este projeto, você precisará de um navegador web moderno que sup
 4.  Clique no botão "Sortear amigo" para realizar o sorteio.
 5.  O resultado do sorteio será exibido na tela.
 
-# Link do GitHub Pages
-
-Você pode acessar o projeto online através do seguinte link:
-
 ## Estrutura de Arquivos
 
 * `index.html`: Arquivo HTML principal que contém a estrutura da página.
